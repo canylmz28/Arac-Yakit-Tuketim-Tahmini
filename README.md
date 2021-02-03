@@ -1,4 +1,4 @@
-# Arac-Yakit-Tuketim-Tahmini
+# Araç Yakıt Tüketim Tahmini
 
 ## Problem Tanımı
 * Bilindiği gibi araçların farklı yakıt tüketim miktarları vardır. Araçların özelliklerine göre bu yakıt tüketimi farklılık gösterir. Bu projede araçların yakıt tüketim miktarının tahmin edilmesi gerçekleştirilmiştir. 
